@@ -2,7 +2,7 @@
 
 void main()
 {
-	printf("hellow\HI!@!!!!");
+	printf("hellow\n HI!@!!!!");
 	return 0;
 }
 
